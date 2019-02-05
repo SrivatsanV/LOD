@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaboursOnDemand</string>
+    <string name="labourname">LabourName</string>
+    <string name="rating_value">4.5/5</string>
+    <string name="cost">Rs 300</string>
+    <string name="hint_text">hint text</string>
+    <string name="submit">Submit</string>
+    <string name="labour_name">Srivatsan</string>
+</resources>

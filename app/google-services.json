@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "941141107777",
+    "firebase_url": "https://lodp-7124a.firebaseio.com",
+    "project_id": "lodp-7124a",
+    "storage_bucket": "lodp-7124a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941141107777:android:3fcbe031cc5ec5e4",
+        "android_client_info": {
+          "package_name": "com.example.laboursondemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941141107777-b2d2hnde15lleiv0ki461o70o3ei4e7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fVGDmZYbizp37BALaU2aGrZApFiu_is"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
